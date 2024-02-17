@@ -15,6 +15,8 @@ I'm Sofiane, a computer science graduate passionate about coding and technology.
 - Node.js
 - Express.js
 - MongoDB
+- Php
+- MySql
 
 ### Other Languages
 - Java
