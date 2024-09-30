@@ -8,8 +8,7 @@ I'm Sofiane, a computer science graduate passionate about coding and technology.
 - HTML
 - CSS
 - JavaScript
-- React.js & Next.js
-- Tailwind and daisyui
+- React.js
 
 ### Backend
 - Node.js
@@ -25,19 +24,18 @@ I'm Sofiane, a computer science graduate passionate about coding and technology.
 
 ## 🌱 Currently Learning
 
-- [Any technology or framework you're currently exploring]
+ - NextJs
 
 ## 🔧 Tools & Platforms
 
 - Git & GitHub
-- VS Code
 - Vite.js
 - Bootstrap studio
 
 ## 📫 Let's Connect
 
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/sofiane-asma-4ab4ab2b4/)
-- Email: sofianeasma@fgei.ummto.dz
+- Email: sofiane.asma@fgei.ummto.dz
 
 ## 💬 Ask Me Anything
 
