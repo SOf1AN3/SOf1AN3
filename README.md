@@ -9,13 +9,12 @@ I'm Sofiane, a computer science graduate passionate about coding and technology.
 - CSS
 - JavaScript
 - React.js
+- Typescript
 
 ### Backend
 - Node.js
 - Express.js
 - MongoDB
-- Php
-- MySql
 
 ### Other Languages
 - Java
@@ -25,6 +24,7 @@ I'm Sofiane, a computer science graduate passionate about coding and technology.
 ## 🌱 Currently Learning
 
  - NextJs
+ - Deno
 
 ## 🔧 Tools & Platforms
 
@@ -41,7 +41,4 @@ I'm Sofiane, a computer science graduate passionate about coding and technology.
 
 Feel free to reach out if you have any questions or just want to chat about technology, coding, or anything else!
 
-## 📈 GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SOf1AN3&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
