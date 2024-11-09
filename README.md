@@ -25,12 +25,15 @@ I'm Sofiane, a computer science graduate passionate about coding and technology.
 
  - NextJs
  - Deno
+ - ThreeJs
 
 ## 🔧 Tools & Platforms
 
 - Git & GitHub
 - Vite.js
 - Bootstrap studio
+- Figma
+- Photoshop
 
 ## 📫 Let's Connect
 
